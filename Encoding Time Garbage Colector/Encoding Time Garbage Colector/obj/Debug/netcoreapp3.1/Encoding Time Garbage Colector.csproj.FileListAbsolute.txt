@@ -1,0 +1,13 @@
+C:\Eugen Files\HomeWorks\Encoding Time Garbage Colector\Encoding Time Garbage Colector\obj\Debug\netcoreapp3.1\Encoding Time Garbage Colector.csprojAssemblyReference.cache
+C:\Eugen Files\HomeWorks\Encoding Time Garbage Colector\Encoding Time Garbage Colector\obj\Debug\netcoreapp3.1\Encoding Time Garbage Colector.AssemblyInfoInputs.cache
+C:\Eugen Files\HomeWorks\Encoding Time Garbage Colector\Encoding Time Garbage Colector\obj\Debug\netcoreapp3.1\Encoding Time Garbage Colector.AssemblyInfo.cs
+C:\Eugen Files\HomeWorks\Encoding Time Garbage Colector\Encoding Time Garbage Colector\obj\Debug\netcoreapp3.1\Encoding Time Garbage Colector.csproj.CoreCompileInputs.cache
+C:\Eugen Files\HomeWorks\Encoding Time Garbage Colector\Encoding Time Garbage Colector\bin\Debug\netcoreapp3.1\Encoding Time Garbage Colector.exe
+C:\Eugen Files\HomeWorks\Encoding Time Garbage Colector\Encoding Time Garbage Colector\bin\Debug\netcoreapp3.1\Encoding Time Garbage Colector.deps.json
+C:\Eugen Files\HomeWorks\Encoding Time Garbage Colector\Encoding Time Garbage Colector\bin\Debug\netcoreapp3.1\Encoding Time Garbage Colector.runtimeconfig.json
+C:\Eugen Files\HomeWorks\Encoding Time Garbage Colector\Encoding Time Garbage Colector\bin\Debug\netcoreapp3.1\Encoding Time Garbage Colector.runtimeconfig.dev.json
+C:\Eugen Files\HomeWorks\Encoding Time Garbage Colector\Encoding Time Garbage Colector\bin\Debug\netcoreapp3.1\Encoding Time Garbage Colector.dll
+C:\Eugen Files\HomeWorks\Encoding Time Garbage Colector\Encoding Time Garbage Colector\bin\Debug\netcoreapp3.1\Encoding Time Garbage Colector.pdb
+C:\Eugen Files\HomeWorks\Encoding Time Garbage Colector\Encoding Time Garbage Colector\obj\Debug\netcoreapp3.1\Encoding Time Garbage Colector.dll
+C:\Eugen Files\HomeWorks\Encoding Time Garbage Colector\Encoding Time Garbage Colector\obj\Debug\netcoreapp3.1\Encoding Time Garbage Colector.pdb
+C:\Eugen Files\HomeWorks\Encoding Time Garbage Colector\Encoding Time Garbage Colector\obj\Debug\netcoreapp3.1\Encoding Time Garbage Colector.genruntimeconfig.cache
